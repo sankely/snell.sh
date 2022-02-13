@@ -27,7 +27,12 @@ systemctl restart snell
 查看运行状态：
 
 ```
-systemctl status snell
+systemctl status snell #查看运行状态
+systemctl restart snell #重启Snell服务
+systemctl start snell #启动Snell服务
+systemctl stop snell #停止Snell服务
+cat /etc/snell/snell-server.conf #查看Snell配置文件
+vi /etc/snell/snell-server.conf #修改Snell配置文件
 ```
 
 卸载方法：
