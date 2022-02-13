@@ -1,5 +1,6 @@
 # 此脚本仅用于远程连接家中局域网内机器，请勿用于任何非法行为！
 ## Snell Version 2.0.6
+## https://github.com/surge-networks/snell
 ## 运行完毕后屏幕显示psk，默认端口号13254（我随手那么一按( ̀⌄ ́)，按照标准填入Surge即可。
 
 Debian & Ubuntu 用户请运行
